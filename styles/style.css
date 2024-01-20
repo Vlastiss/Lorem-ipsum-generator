@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lemon&family=Rubik+Burned&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Lemon", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(232, 255, 255, 0.524);
+}
+
+.btn {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+  color: white;
+  background-color: green;
+}
+
+.container {
+  text-align: center;
+}
+.container h1 {
+  color: darkblue;
+  margin: 50px auto;
+}
+.container h2 {
+  font-size: 18px;
+}
+
+.input {
+  width: 50px;
+}
+
+.paragraph {
+  text-align: left;
+  margin-top: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3rem;
+}
+
+.text-area {
+  background-color: white;
+  padding: 0 30px;
+  margin-top: 10px;
+}/*# sourceMappingURL=style.css.map */
